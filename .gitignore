@@ -1,0 +1,11 @@
+.DS_Store
+*/build/*
+xcuserdata
+profile
+*.moved-aside
+DerivedData
+*.hmap
+*.xccheckout
+*.xcscmblueprint
+.bundle/
+*.swp
