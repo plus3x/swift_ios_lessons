@@ -4,3 +4,6 @@
 [submodule "2_StathamQuotes"]
 	path = 2_StathamQuotes
 	url = git@github.com:plus3x/StathamQuotes.git
+[submodule "3_TwoInOne"]
+	path = 3_TwoInOne
+	url = git@github.com:plus3x/TwoInOne.git
