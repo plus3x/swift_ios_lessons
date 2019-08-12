@@ -1,0 +1,6 @@
+[submodule "1_InternalDemo"]
+	path = 1_InternalDemo
+	url = git@github.com:plus3x/Intern1Demo.git
+[submodule "2_StathamQuotes"]
+	path = 2_StathamQuotes
+	url = git@github.com:plus3x/StathamQuotes.git
