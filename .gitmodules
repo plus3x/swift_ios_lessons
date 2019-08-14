@@ -7,3 +7,6 @@
 [submodule "3_TwoInOne"]
 	path = 3_TwoInOne
 	url = git@github.com:plus3x/TwoInOne.git
+[submodule "4_Internal2Demo"]
+	path = 4_Internal2Demo
+	url = git@github.com:plus3x/Internal2Demo.git
