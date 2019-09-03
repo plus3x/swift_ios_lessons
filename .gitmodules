@@ -13,3 +13,6 @@
 [submodule "5_Internal3Demo"]
 	path = 5_Internal3Demo
 	url = git@github.com:plus3x/Internal3Demo.git
+[submodule "6_MyFileNavigator"]
+	path = 6_MyFileNavigator
+	url = git@github.com:plus3x/MyFileNavigator.git
