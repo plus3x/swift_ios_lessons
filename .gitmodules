@@ -10,3 +10,6 @@
 [submodule "4_Internal2Demo"]
 	path = 4_Internal2Demo
 	url = git@github.com:plus3x/Internal2Demo.git
+[submodule "5_Internal3Demo"]
+	path = 5_Internal3Demo
+	url = git@github.com:plus3x/Internal3Demo.git
