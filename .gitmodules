@@ -16,3 +16,6 @@
 [submodule "6_MyFileNavigator"]
 	path = 6_MyFileNavigator
 	url = git@github.com:plus3x/MyFileNavigator.git
+[submodule "7_Gint"]
+	path = 7_Gint
+	url = git@github.com:plus3x/gint2.git
